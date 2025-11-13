@@ -1,3 +1,7 @@
+## Author
+
+Daya  
+[GitHub](https://github.com/dayalekshmi219218-glitch) | [LinkedIn](https://www.linkedin.com/in/daya-kumar27/)
 # Microsoft Stock Analysis (MSFT)
 
 A comprehensive analysis of Microsoft (MSFT) stock price history from the late 1980s to 2023, including visualizations, moving averages, daily changes, and correlations. This project demonstrates time series analysis, exploratory data analysis (EDA), and financial insights using Python (pandas, matplotlib, seaborn).
